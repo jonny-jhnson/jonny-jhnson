@@ -21,6 +21,8 @@
 
 ## Research & Writing
 
+Blogs can be found here: https://jonny-jhnson.dev/
+
 ### Windows Internals
 
 #### Access Control & Tokens
