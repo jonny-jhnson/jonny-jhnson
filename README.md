@@ -75,6 +75,7 @@ Blogs can be found here: https://jonny-jhnson.dev/
 * [Bypassing Access Mask Auditing Strategies](https://jonny-johnson.medium.com/bypassing-access-mask-auditing-strategies-480fb641c158)
 
 ### EDR Research
+* [A First Look Inside the Windows Endpoint Security Platform](https://jonny-jhnson.dev/blog/a-first-look-inside-the-windows-endpoint-security-platform/)
 * [Silencing the EDR Silencers](https://jonny-johnson.medium.com/silencing-the-edr-silencers-b703d7089821)
 * [No Agent, No Problem: Discovering Remote EDR](https://jonny-johnson.medium.com/no-agent-no-problem-discovering-remote-edr-8ca60596559f)
 * [Peeling Back the Mask: How the Threat Intelligence Provider is Protected](https://jonny-johnson.medium.com/peeling-back-the-mask-how-the-threat-intelligence-provider-is-protected-9968c38c5481)
@@ -83,6 +84,8 @@ Blogs can be found here: https://jonny-jhnson.dev/
 * [ThreadSleeper: Suspending Threads via GMER64 Driver](https://medium.com/@jsecurity101/threadsleeper-suspending-threads-via-gmer64-driver-b08824ca3b15)
 
 ### AI & Agentic Security
+* [I'm in Your Apps: Leveraging Codex Tokens to Abuse the `codex_apps` MCP Server](https://jonny-jhnson.dev/blog/im-in-your-apps/)
+* [WHAM, Bam, Thank You OpenAI for the C2 Infrastructure](https://jonny-jhnson.dev/blog/wham-bam-thank-you-openai-for-the-c2-infra/)
 * [A Deep Dive into Codex Windows Sandbox](https://jonny-johnson.medium.com/a-deep-dive-into-codex-windows-sandbox-a2489bf4ae91)
 * [RAG, ICL, and Windows Events: Building a Human-Guided Security Analyst](https://jonny-johnson.medium.com/rag-icl-and-windows-events-building-a-human-guided-security-analyst-395faa6769a4)
 
